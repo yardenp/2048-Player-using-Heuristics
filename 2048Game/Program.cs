@@ -1088,13 +1088,17 @@ namespace Game2048
 
         public static void Main(string[] args)
         {
+           
            SholdPrint = true;
-           OnlyGame = true;
-           SholdStopEveryMove = false;
+           OnlyGame = false;
+           SholdStopEveryMove = true;
            BestPlayer = true;
-           ExpectAddedTile = true;
+           ExpectAddedTile = false;
            numOfGames = 1;
+
+            /*
             List<double> Qualities = new List<double>();
+ 
             for (int i = 0; i < 100; i++)
             {
                 Qualities.Add(Evaluator.evaluate(Evaluator.getRandomWeights(), numOfGames));
@@ -1104,8 +1108,8 @@ namespace Game2048
             double MinValue = Qualities.Min();
 
             Console.WriteLine("numOfGames:" + numOfGames + " ,greatest diff is:" + (MaxValue - MinValue));
-            
-           // Console.WriteLine("quality is:" + Evaluator.evaluate(Evaluator.getRandomWeights(), numOfGames));
+            */
+            Console.WriteLine("quality is:" + Evaluator.evaluate(Evaluator.getRandomWeights(), numOfGames));
             Console.Read();
             Console.Read();
    
