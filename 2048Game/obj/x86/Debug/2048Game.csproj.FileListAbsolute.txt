@@ -1,0 +1,25 @@
+C:\Users\noal\Desktop\2048Game\2048Game\obj\x86\Debug\2048Game.csprojResolveAssemblyReference.cache
+C:\Users\noal\Desktop\2048Game\2048Game\bin\Debug\2048Game.exe
+C:\Users\noal\Desktop\2048Game\2048Game\bin\Debug\2048Game.pdb
+C:\Users\noal\Desktop\2048Game\2048Game\obj\x86\Debug\2048Game.exe
+C:\Users\noal\Desktop\2048Game\2048Game\obj\x86\Debug\2048Game.pdb
+C:\Users\Yarden Peleg\Dropbox\CS\סמסטר ו'\אלגוריתמים אבולוציוניים\WS\2048 - Evaluator\2048Game\obj\x86\Debug\2048Game.exe
+C:\Users\Yarden Peleg\Dropbox\CS\סמסטר ו'\אלגוריתמים אבולוציוניים\WS\2048 - Evaluator\2048Game\obj\x86\Debug\2048Game.pdb
+C:\Users\Yarden Peleg\Dropbox\CS\סמסטר ו'\אלגוריתמים אבולוציוניים\WS\2048 - Evaluator\2048Game\bin\Debug\2048Game.exe
+C:\Users\Yarden Peleg\Dropbox\CS\סמסטר ו'\אלגוריתמים אבולוציוניים\WS\2048 - Evaluator\2048Game\bin\Debug\2048Game.pdb
+C:\Users\noal\Desktop\2048 - Evaluator\2048Game\obj\x86\Debug\2048Game.exe
+C:\Users\noal\Desktop\2048 - Evaluator\2048Game\obj\x86\Debug\2048Game.pdb
+C:\Users\noal\Desktop\2048 - Evaluator\2048Game\bin\Debug\2048Game.exe
+C:\Users\noal\Desktop\2048 - Evaluator\2048Game\bin\Debug\2048Game.pdb
+C:\Users\noal\Desktop\2048 - Evaluator\2048Game\obj\x86\Debug\2048Game.csprojResolveAssemblyReference.cache
+C:\Users\Yarden Peleg\Dropbox\CS\סמסטר ו'\אלגוריתמים אבולוציוניים\WS\2048 - Evaluator\2048Game\obj\x86\Debug\2048Game.csprojResolveAssemblyReference.cache
+C:\HL test\2048 - Evaluator\2048Game\obj\x86\Debug\2048Game.exe
+C:\HL test\2048 - Evaluator\2048Game\obj\x86\Debug\2048Game.pdb
+C:\HL test\2048 - Evaluator\2048Game\bin\Debug\2048Game.exe
+C:\HL test\2048 - Evaluator\2048Game\bin\Debug\2048Game.pdb
+C:\HL test\2048 - Evaluator\2048Game\obj\x86\Debug\2048Game.csprojResolveAssemblyReference.cache
+C:\Users\Yarden Peleg\Dropbox\CS\סמסטר ו'\אלגוריתמים אבולוציוניים\HL test\2048 - Evaluator\2048Game\obj\x86\Debug\2048Game.exe
+C:\Users\Yarden Peleg\Dropbox\CS\סמסטר ו'\אלגוריתמים אבולוציוניים\HL test\2048 - Evaluator\2048Game\obj\x86\Debug\2048Game.pdb
+C:\Users\Yarden Peleg\Dropbox\CS\סמסטר ו'\אלגוריתמים אבולוציוניים\HL test\2048 - Evaluator\2048Game\bin\Debug\2048Game.exe
+C:\Users\Yarden Peleg\Dropbox\CS\סמסטר ו'\אלגוריתמים אבולוציוניים\HL test\2048 - Evaluator\2048Game\bin\Debug\2048Game.pdb
+C:\Users\Yarden Peleg\Dropbox\CS\סמסטר ו'\אלגוריתמים אבולוציוניים\HL test\2048 - Evaluator\2048Game\obj\x86\Debug\2048Game.csprojResolveAssemblyReference.cache
